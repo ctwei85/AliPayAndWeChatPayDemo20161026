@@ -1,0 +1,20 @@
+//
+//  iii-Prefix.pch
+//  iii
+//
+//  Created by lianchuang-hw on 16/10/25.
+//  Copyright © 2016年 hw. All rights reserved.
+//
+
+#ifndef iii_Prefix_pch
+#define iii_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* iii_Prefix_pch */
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+
+#endif
